@@ -4,13 +4,13 @@
   "version": "0.0.1",
   "description": "Hello Electron is a simple hello world example of Electron",
   "main": "es6-init.js",
-  "repository": "https://github.com/erictherobot/hello-electron",
+  "repository": "https://github.com/RadinaAvramova/hello-electron",
   "author": {
-    "name": "Eric David Smith",
-    "email": "erictherobot@gmail.com",
-    "url": "http://erictherobot.com"
+    "name": "",
+    "email": "",
+    "url": ""
   },
-  "license": "MIT",
+  "license": "",
   "scripts": {
     "start": "rm -rf .cache && cross-env NODE_ENV=development electron .",
     "clean-cache": "rm -rf .cache",
